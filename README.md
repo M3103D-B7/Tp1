@@ -1,7 +1,8 @@
 # Tp1
 
-BEAUCOTE
+BEAUCOT
 
+```python
 from socket import *
 serverName = ‘hostname’
 serverPort = 12000
