@@ -1,6 +1,6 @@
 # Tp1
 
-BEAUCOT
+BEAUCOTE
 
 ```python
 from socket import *
@@ -12,3 +12,4 @@ clientSocket.sendto(message,(serverName, serverPort))
 modifiedMessage, serverAddress = clientSocket.recvfrom(2048)
 print modifiedMessage
 clientSocket.close()
+```
